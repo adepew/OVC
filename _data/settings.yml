@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Argon Jekyll Theme
+  site_title: ElecSim, Agent-Based Electricity Market Model
   favicon_image: /assets/img/favicon.png
 
 header_settings:
@@ -74,14 +74,14 @@ contact_settings:
 social_settings:
   facebook_url: 'https://www.facebook.com/jekyllthemes/'
   twitter_url: 'https://twitter.com/jekyllthemesio'
-  instagram_url: 'https://twitter.com/jekyllthemesio'
+  instagram_url: ''
   youtube_url: ''
   vimeo_url: ''
   pinterest_url: ''
   tumblr_url: ''
   dribbble_url: ''
   behance_url: ''
-  github_url: 'https://twitter.com/jekyllthemesio'
+  github_url: 'https://github.com/alexanderkell/elecsim'
   reddit_url: ''
   linkedin_url: ''
 
