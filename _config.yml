@@ -1,6 +1,6 @@
-site: Argon Jekyll Theme
+site: ElecSim: Agent-Based Electricity Market Model
 
-url: https://argon.jekyllthemes.io
+url: https://elecsim.org
 baseurl: 
 
 collections:
