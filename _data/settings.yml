@@ -6,7 +6,7 @@ header_settings:
   logo_image: /assets/img/brand/white.png
   mobile_logo_image: /assets/img/brand/blue.png
   # Choose a color for your header [blue, dark, light].
-  theme: blue
+  theme: light
   # If the page has a featured image, it turns transparent if allow_transparent is set to "yes".
   allow_transparent: "yes"
 
@@ -72,8 +72,8 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: 'https://www.facebook.com/jekyllthemes/'
-  twitter_url: 'https://twitter.com/jekyllthemesio'
+  facebook_url: 'https://www.facebook.com/ohiovalleyconsulting/'
+  twitter_url: 'https://twitter.com/ohiovalley__c'
   instagram_url: ''
   youtube_url: ''
   vimeo_url: ''
@@ -81,7 +81,7 @@ social_settings:
   tumblr_url: ''
   dribbble_url: ''
   behance_url: ''
-  github_url: 'https://github.com/alexanderkell/elecsim'
+  github_url: 'https://github.com/adepew/ovc'
   reddit_url: ''
   linkedin_url: ''
 
